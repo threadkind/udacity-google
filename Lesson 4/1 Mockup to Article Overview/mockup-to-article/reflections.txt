@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+  * What new skills have you learned?
+  I am reasonable familiar with HTML so this has been more of a refresher course. It has been good to go over some of the fundamentals.
+
+  * What has been easy?
+  Most of the challenges so far have been fairly easy. I have enjoyed the challenges. THe mockup challenge was interesting in having to create a mock up in HTML only. I enjoyed the challenge.
+
+  * What has been difficult?
+  I haven't found much of the course difficult so far. 
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  I enjoy problem solving and it has been interesting to use the information that I have covered so far in the course to apply to the mock up challenge. Looking back on the previous lessons and using my research skills to find answers has been useful.
